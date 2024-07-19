@@ -1,0 +1,88 @@
+.intro-copy p {
+  margin: 0 0 1rem 0 !important
+}
+.remove-paragraph-margins p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+@media (hover: hover) {
+
+
+
+.hoverable .animate-h1-icon svg {
+  transition-duration: 1600ms;
+  transition-timing-function: ease-out;
+  transform: rotate(0deg);
+}
+.hoverable:hover .animate-h1-icon svg {
+  transform: rotate(-180deg);
+}
+
+.hoverable hr.hr-full,
+.not-hoverable hr.hr-full {
+  transition-duration: 1600ms;
+  transform: scaleX(0);
+}
+.hoverable:hover hr.hr-full,
+.not-hoverable:hover hr.hr-full {
+  transform: scaleX(1);
+}
+
+.hoverable .vertical-bar {
+  transition-duration: 1600ms;
+  transform: scaleY(0);
+}
+.hoverable:hover .vertical-bar {
+  transform: scaleY(1);
+}
+
+.hoverable .animate-hero-image,
+.hoverable .animate-image {
+  overflow: hidden;
+}
+.hoverable .animate-hero-image .MuiCardMedia-img,
+.hoverable .animate-image .MuiCardMedia-img {
+  transition-duration: 1600ms;
+  filter: brightness(1);
+}
+.hoverable:hover .animate-image-zoom .MuiCardMedia-img {
+  transform: scale(1.2);
+}
+.hoverable:hover .animate-image-brighten .MuiCardMedia-img {
+  filter: brightness(1.55);
+}
+.hoverable .animate-image-slide-left .MuiCardMedia-img {
+  transform: scale(1.3);
+  transform-origin: top left;
+}
+.hoverable .animate-image-slide-left  {
+  height: 100%;
+}
+.hoverable:hover .animate-image-slide-left .MuiCardMedia-img {
+  transform: scale(1.3) translateX(-20%);
+}
+
+.hoverable .animate-image-slide-up .MuiCardMedia-img {
+  transform: scale(1.2);
+  transform-origin: top center;
+}
+.hoverable .animate-image-slide-up  {
+  width: 100%;
+}
+.hoverable:hover .animate-image-slide-up .MuiCardMedia-img {
+  transform: translateY(-20%) scale(1.2);
+}
+.hoverable .reveal-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--modal-bg);
+  transition: all 1600ms ease-out;
+}
+.hoverable:hover .reveal-mask {
+  transform: translateX(100%);
+}
+}

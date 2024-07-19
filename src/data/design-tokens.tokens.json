@@ -1,0 +1,507 @@
+{
+  "color": {
+    "seafoam": {
+      "description": "",
+      "type": "color",
+      "value": "#03ffdaff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:2d1b235f3bd4494ed7e4b3355d602bb9768b121b,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "yellow": {
+      "description": "",
+      "type": "color",
+      "value": "#fbc02dff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:022f938276687f51df9b859bcf3a184b72a0cb9d,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "magenta": {
+      "description": "",
+      "type": "color",
+      "value": "#ff24a1ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:566f35701dcf021fc6166f6388142692efc81c6d,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "black": {
+      "description": "",
+      "type": "color",
+      "value": "#000000ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:ce26eb7a4fa87c07ed1cf0770d99b8dddc94b35d,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "chicago blue multiplied": {
+      "0": {
+        "type": "color",
+        "value": "#d9d9d9ff",
+        "blendMode": "normal"
+      },
+      "1": {
+        "type": "color",
+        "value": "#450adf66",
+        "blendMode": "normal"
+      },
+      "description": "",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:7b8de464346e3b2d48c220f02aa4889ec51a621c,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "we live here": {
+      "description": "",
+      "type": "color",
+      "value": "#fbc02d66",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:752e495dfab0962bcd679cdebad0ba2764d8015e,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "graffiti": {
+      "description": "",
+      "type": "color",
+      "value": "#e3ddf1ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:b3668fe29f3b8cddc8bb0a1dd07de7981b234f95,",
+          "exportKey": "color"
+        }
+      }
+    }
+  },
+  "font": {
+    "acumin vf h1": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 135,
+        "textDecoration": "none",
+        "fontFamily": "Acumin Pro",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 1.35,
+        "lineHeight": 150,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:4b5579b82fc493a05c6c161f4341542d06d735ad,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "acumin vf h2": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 60,
+        "textDecoration": "none",
+        "fontFamily": "Acumin Pro",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0.6,
+        "lineHeight": 58,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:068230cb99c3710f24005f40c2ce3fc808fc6cbc,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "acumin vf h3": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 30,
+        "textDecoration": "none",
+        "fontFamily": "Acumin Pro",
+        "fontWeight": 700,
+        "fontStyle": "italic",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 36,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:439c4a3f1de550a0773f92b4beda029860bdb4a7,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "acumin vf bc1": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 18,
+        "textDecoration": "none",
+        "fontFamily": "Acumin Pro",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 30,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:180d1ef6f37f5b22027931086eca42539f0b484e,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "acumin vf bc2 bold": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 24,
+        "textDecoration": "none",
+        "fontFamily": "Acumin Pro",
+        "fontWeight": 600,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 35,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:8afb6187da0515e4cf1d4eb8a06062c196acc36d,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "yo": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 135,
+        "textDecoration": "none",
+        "fontFamily": "Acumin Pro",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 1.35,
+        "lineHeight": 150,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:b8d46da1708a4754241aed92f0ebb7e70cce968c,",
+          "exportKey": "font"
+        }
+      }
+    }
+  },
+  "typography": {
+    "acumin vf h1": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 135
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Acumin Pro"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 900
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 1.35
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 150
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "acumin vf h2": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 60
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Acumin Pro"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 900
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0.6
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 58
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "acumin vf h3": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 30
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Acumin Pro"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 700
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "italic"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 36
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "acumin vf bc1": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 18
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Acumin Pro"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 400
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 30
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "acumin vf bc2 bold": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 24
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Acumin Pro"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 600
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 35
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "yo": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 135
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Acumin Pro"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 900
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 1.35
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 150
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    }
+  }
+}
