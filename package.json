@@ -2,7 +2,7 @@
   "name": "p33-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/wp-content/themes/yootheme_child/velocity2023",
+  "homepage": "/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
